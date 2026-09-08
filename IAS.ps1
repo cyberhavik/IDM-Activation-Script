@@ -2,7 +2,7 @@
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 # Corrected RAW file URL
-$DownloadURL = 'https://raw.githubusercontent.com/Astro-Saurav/IDM-Activation-Script/main/IAS.cmd'
+$DownloadURL = 'https://raw.githubusercontent.com/cyberhavik/IDM-Activation-Script/main/IAS.cmd'
 
 # Generate a random filename
 $rand = Get-Random -Maximum 99999999
