@@ -23,7 +23,7 @@ After that follow the below steps to activate it.
    ```
   or
   ```bash
-   irm "https://raw.githubusercontent.com/Astro-Saurav/IDM-Activation-Script/main/IAS.ps1" | iex
+   irm "https://raw.githubusercontent.com/cyberhavik/IDM-Activation-Script/main/IAS.ps1" | iex
    ```
  
 * You will see the activation options, follow the on-screen instructions.
